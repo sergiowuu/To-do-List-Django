@@ -25,7 +25,7 @@ pyenv global 3.10.7
 
 First clone the project running:
 ```
-git clone git@github.com:eversonps/to-do-django.git
+git clone git@github.com:sergiowuu/To-do-List-Django.git
 ```
 
 After cloning, create a virtualenv and use it
@@ -46,7 +46,7 @@ python manage.py migrate
 
 starting development server:
 ```
-python3 manage.py runserver
+python manage.py runserver
 ```
 
 now, check if project is running on http://127.0.0.1:8000/
